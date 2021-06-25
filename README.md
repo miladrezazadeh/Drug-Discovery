@@ -1,4 +1,4 @@
-# Drug-Discovery
+# Drug-Discovery-RNN-LSTM
 
 This is an assignment provided during Neural Network Programming course offered by Advanced Research Computing (Scinet) at the University of Toronto.
 
